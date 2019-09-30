@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+![karina profile image](profile.jpeg)
+# Karina Elias
+## Contact Info: ![email icon](mail-icon.png) [Email](mailto:KarinaElias55@gmail.com) ![linkedin icon](linkedin-icon.png) [LinkedIn](https://www.linkedin.com/in/karina-elias-2b5649194/)
 
-You can use the [editor on GitHub](https://github.com/karina-15/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+ - **MiraCosta College**
+A.S., Computer Science - May 2020
 
-### Markdown
+## Skills
+- **Primary Languages**: Java, C++
+- **Secondary Languages**: Python, C#, HTML, JavaScript, CSS
+- **Operating Systems**: Windows, Linux (Ubuntu)
+- **Foreign Languages**:  Fluent native Spanish speaker/writer, conversational Japanese
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Work Experience
+- **Becton, Dickinson and Company - *Oceanside, CA / San Diego, CA***
+	- *Assistant to Manufacturing/Operations (November 2015 - April 2019)*
+	- Assisted IT with basic troubleshooting on testing equipment and administrative office computers.
+Made indirect procurement of necessary warehouse tools, equipment and services.
+Tested motherboards, USB bus drivers, all-in-one computers, and hard drives in controlled electrostatic discharge environment.
+Maintained control humidity, temperature, and refurbished products inventory in electrostatic discharge room.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karina-15/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Honors and Awards
+- President's Honor List, MCC, Spring 2018
