@@ -1,5 +1,6 @@
-theme: jekyll-theme-slate
-title: Resume
-
 github:
   is_project_page: false
+  
+theme: jekyll-theme-slate
+title: Resume
+Description: ""
